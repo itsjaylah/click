@@ -1,0 +1,73 @@
+body {
+  background: #F79B9C;  
+font-family: "Caveat Brush", cursive;
+  
+}
+
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.bliss,.blossom,.buttercup,.bubbles{
+  display: none;
+}
+
+h1 { font-size: 3.5vw;
+font-family: "Unlock", serif;
+color: #ED5B65;
+}
+
+p{ font-size: 2.5vw;
+  color: #ED5B65;
+}
+
+div {
+ font-size:25px;
+ font-family: "Caveat Brush", cursive;
+  color: #ED5B65;
+}
+
+
+input.questionOne,input.questionTwo {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+   border-radius: 8px;
+}
+
+.button {
+  margin-top: 20px;
+  text-align: center;
+}
+
+button {
+  font-family: "Unlock", serif;
+  width: 250px;
+  padding: 10px;
+  border: none;
+  background-color:#ED5B65;
+  color: #192322;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #F79B9C;
+}
+
+.message {
+  margin-top: 20px;
+  text-align: center;
+  color: #0080ff;
+}
+.purple{color:#D78EF9;}
+.blue {color:#55BAF0;}
+.pink{color:#F79B9C;}
+.green {color:#6AB359;}
