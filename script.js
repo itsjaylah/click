@@ -31,7 +31,7 @@ button.onclick = function(){
   } else if(answer1 === "pink" && answer2 === "spicy"){
     console.log("blossom");
       document.querySelector("div").innerHTML = "Congrats your powerpuff girl is blossom! Your powerpuff girl is blossom because she is sharp, confident, and assertive, adding intensity through leadership and intellect "
-    
+    Image.src = "https://i.pinimg.com/736x/82/bc/80/82bc80fcdafa2490748a3778c419c5d3.jpg"
     
   }  else {answer1 === "green" && answer2 === "spicy";
     console.log("buttercup");
